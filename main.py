@@ -1,5 +1,5 @@
 # <<<<<<< HEAD
-# print(“Hello sanchit-commits :D”)
+print("Hello sanchit-commits :D")
 # =======
-print("Hello world :D")
-# >>>>>>> development
+# print("Hello world :D")
+# # >>>>>>> development
